@@ -119,7 +119,11 @@ public class StudentQuestionController {
 	@FXML
 	public void submit(ActionEvent event) throws IOException {
 		timer.cancel();
+
+//		checking right answer
+
 //		saving data to database
+
 		FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/student/FinalScore.fxml"));
 		Parent root = loader.load();
 		Stage stage = (Stage) ((Node) event.getSource()).getScene().getWindow();
