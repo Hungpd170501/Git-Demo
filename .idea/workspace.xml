@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfd87dfc-ef5f-4bea-8edd-4d8e2c739f3a" name="Changes" comment="" />
+    <list default="true" id="cfd87dfc-ef5f-4bea-8edd-4d8e2c739f3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +71,31 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="add-git-branch" />
+                    <option name="lastUsedInstant" value="1629888610" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1629888609" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1x8Ind6LkV2MWOA1UwmHXbI4UwH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -195,7 +222,7 @@
       <workItem from="1629730469557" duration="12193000" />
       <workItem from="1629884537361" duration="1215000" />
       <workItem from="1629885776279" duration="263000" />
-      <workItem from="1629886113459" duration="593000" />
+      <workItem from="1629886113459" duration="2621000" />
     </task>
     <servers />
   </component>
