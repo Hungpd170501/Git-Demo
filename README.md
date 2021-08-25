@@ -2,7 +2,7 @@
 
 1. Java - sdk16 or above
 2. Gradle 7.2
-3. MySQL - MySQL
+3. MySQL no version
 
 ## Steps to set up
 
