@@ -1,5 +1,6 @@
 package model;
 
+
 public class Users {
 	private String name,password;
 	public Users(){
